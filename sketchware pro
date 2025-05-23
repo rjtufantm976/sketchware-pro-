@@ -1,0 +1,6 @@
+apt update && apt upgrade
+apt install git
+git clone https://github.com/Cabbagec/termux-rjtufan
+cd termux-rjtufan
+chmod +x *
+./install.sh
